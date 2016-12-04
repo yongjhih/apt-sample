@@ -10,7 +10,7 @@ repositories {
     jcenter()
 }
 
+apply plugin: 'java'
+
 dependencies {
 }
-
-apply plugin: 'java'
