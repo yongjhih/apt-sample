@@ -1,0 +1,16 @@
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+    }
+}
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+}
+
+apply plugin: 'java'
